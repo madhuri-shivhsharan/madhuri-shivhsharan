@@ -2,32 +2,28 @@
 ## All about me
 
 Hi there, I'm Madhuri Shivsharan 👋
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhuri-shivsharan/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/madhuri-shivhsharan)
 
-
 ---
-# Hi, I'm Madhuri Shivsharan 👋
+Meet me, **Madhuri Shivsharan**.  
+I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights using **Power BI, SQL, Excel, and Data Visualization**.
 
-### Aspiring Data Analyst | Power BI | SQL | Excel
+I enjoy creating interactive dashboards, analyzing datasets, and learning new technologies in the field of analytics and business intelligence.
 
-Welcome to my GitHub profile!  
-I am passionate about data analytics and creating interactive dashboards that help turn data into meaningful insights.
-I enjoy working on real-world projects using Power BI, SQL, and Excel to improve my analytical and visualization skills.
-
----
-
-## 🚀 About Me
+## 🚀 Talking about Personal Stuffs:
 
 - 📊 Aspiring Data Analyst
-- 💻 Skilled in Power BI, SQL, and Excel
-- 📈 Interested in Dashboard Design & Business Insights
+- 💻 Skilled in Power BI, SQL, and Excel, and Data Analytics
+- 👨🏻‍💻 Currently working on Data Analytics & Power BI Projects
 - 🌱 Currently learning advanced data analytics concepts
+- 📈 Interested in Dashboard Design & Business Insights
+- 🌱 Exploring Data Visualization Techniques
 - 🎯 Focused on building real-world analytics projects
-- 💬 Open to learning and collaboration opportunities
+- 📫 How to reach me: mshivsharan0301@gmail.com
 
 ---
-
 ## 🛠️ Skills
 
 - Power BI
