@@ -52,5 +52,14 @@ The dashboard includes interactive filters, KPI cards, charts, and page navigati
 ## Mobile_Sales_Dashboard-Power BI
 Design and develop a comprehensive BI dashboard that provides actionable insights into mobile phone sales. The dashboard was created using Power BI and showcases multiple dimensions of sales performance, including geography, product models, payment methods, and customer ratings.
 
+This project analyzes pizza sales data using MySQL to uncover business insights such as revenue trends, customer preferences, and ordering patterns. The goal is to practice SQL skills like joins, aggregations, subqueries, and window functions while solving real-world business questions.
 
+# 🎯 Objectives of the Project:
+- Track total number of orders.
+- Calculate total revenue generated.
+- Identify top-selling pizzas.
+- Analyze customer ordering behavior.
+- Understand category and size preferences.
+- Study sales trends over time.
+  
 ⭐ Thank you for visiting my GitHub profile!
