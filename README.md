@@ -49,7 +49,8 @@ Developed an interactive Power BI dashboard to analyze:
 
 The dashboard includes interactive filters, KPI cards, charts, and page navigation for better business insights.
 
-
+## Mobile_Sales_Dashboard-Power BI
+Design and develop a comprehensive BI dashboard that provides actionable insights into mobile phone sales. The dashboard was created using Power BI and showcases multiple dimensions of sales performance, including geography, product models, payment methods, and customer ratings.
 
 
 ⭐ Thank you for visiting my GitHub profile!
