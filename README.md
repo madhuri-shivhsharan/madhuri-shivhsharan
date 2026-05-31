@@ -38,28 +38,93 @@ I enjoy creating interactive dashboards, analyzing datasets, and learning new te
 
 ## 📌 Featured Project
 
+# 📊 Data Analytics Portfolio
+
+Hi, I'm Madhuri Shivsharan.
+
+Aspiring Data Analyst skilled in Power BI, SQL, Excel and Data Visualization.
+
+---
+
+## Projects
+
+### 🏥 Hospital Emergency Room Dashboard (Excel)
+
+- Developed an interactive dashboard to monitor patient flow, wait times, and key hospital KPIs.
+- Performed data cleaning and transformation for accurate reporting.
+- Analysed patient demographics and referral trends.
+
+**Skills:** Excel, Pivot Tables, Data Cleaning, Dashboard Design
+
+Repository Link:
+[Hospital Emergency Room Dashboard](Add Your GitHub Link)
+
+---
+
+### 🍕 Pizza Sales Analysis (SQL)
+
+- Analysed sales data using SQL to identify revenue trends.
+- Used joins, aggregations and filtering techniques.
+- Identified top-performing products and peak sales periods.
+
+**Skills:** SQL, MySQL, Data Analysis
+
+Repository Link:
+[Pizza Sales Analysis](Add Your GitHub Link)
+
+---
+
+### 📱 Mobile Sales Dashboard (Power BI)
+
+- Built an interactive dashboard to analyse sales performance.
+- Tracked KPIs by city, brand and time.
+- Used DAX and data modelling techniques.
+
+**Skills:** Power BI, DAX, Data Modelling
+
+Repository Link:
+[Mobile Sales Dashboard](Add Your GitHub Link)
+
+---
+
 ### 🚖 OLA Ride Booking Analysis Dashboard
 
-Developed an interactive Power BI dashboard to analyze:
-- Booking Trends
-- Revenue Performance
-- Ride Cancellations
-- Vehicle Type Analysis
-- Customer & Driver Ratings
+- Analysed booking trends, revenue and cancellations.
+- Built interactive dashboards using slicers and KPI cards.
+- Created insights for operational decision making.
 
-The dashboard includes interactive filters, KPI cards, charts, and page navigation for better business insights.
+**Skills:** Power BI, DAX, Power Query
 
-## Mobile_Sales_Dashboard-Power BI
-Design and develop a comprehensive BI dashboard that provides actionable insights into mobile phone sales. The dashboard was created using Power BI and showcases multiple dimensions of sales performance, including geography, product models, payment methods, and customer ratings.
+Repository Link:
+[OLA Ride Booking Analysis](Add Your GitHub Link)
 
-This project analyzes pizza sales data using MySQL to uncover business insights such as revenue trends, customer preferences, and ordering patterns. The goal is to practice SQL skills like joins, aggregations, subqueries, and window functions while solving real-world business questions.
+---
 
-# 🎯 Objectives of the Project:
-- Track total number of orders.
-- Calculate total revenue generated.
-- Identify top-selling pizzas.
-- Analyze customer ordering behavior.
-- Understand category and size preferences.
-- Study sales trends over time.
+### 🏦 Bank Loan Analytics Dashboard
+
+- Analysed loan applications and loan performance.
+- Tracked funded amount, received amount and risk metrics.
+- Created Good Loan vs Bad Loan analysis.
+
+**Skills:** Power BI, DAX, Power Query
+
+Repository Link:
+[Bank Loan Analytics Dashboard](Add Your GitHub Link)
+
+---
+
+## Technical Skills
+
+- Power BI
+- SQL
+- Excel
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+---
+
   
 ⭐ Thank you for visiting my GitHub profile!
