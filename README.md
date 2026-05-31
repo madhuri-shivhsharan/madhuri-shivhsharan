@@ -38,16 +38,6 @@ I enjoy creating interactive dashboards, analyzing datasets, and learning new te
 
 ## 📌 Featured Project
 
-# 📊 Data Analytics Portfolio
-
-Hi, I'm Madhuri Shivsharan.
-
-Aspiring Data Analyst skilled in Power BI, SQL, Excel and Data Visualization.
-
----
-
-## Projects
-
 ### 🏥 Hospital Emergency Room Dashboard (Excel)
 
 - Developed an interactive dashboard to monitor patient flow, wait times, and key hospital KPIs.
@@ -57,7 +47,7 @@ Aspiring Data Analyst skilled in Power BI, SQL, Excel and Data Visualization.
 **Skills:** Excel, Pivot Tables, Data Cleaning, Dashboard Design
 
 Repository Link:
-[Hospital Emergency Room Dashboard](Add Your GitHub Link)
+[Hospital Emergency Room Dashboard](https://github.com/madhuri-shivhsharan/Hospital-Emergency-Room-Dashboard))
 
 ---
 
