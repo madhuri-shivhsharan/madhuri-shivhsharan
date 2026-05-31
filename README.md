@@ -60,7 +60,7 @@ Repository Link:
 **Skills:** SQL, MySQL, Data Analysis
 
 Repository Link:
-[Pizza Sales Analysis](Add Your GitHub Link)
+[Pizza Sales Analysis](https://github.com/madhuri-shivhsharan/Pizza-Sales-Analysis-MySQL-Project-)
 
 ---
 
