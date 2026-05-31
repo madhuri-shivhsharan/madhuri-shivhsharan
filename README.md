@@ -73,7 +73,7 @@ Repository Link:
 **Skills:** Power BI, DAX, Data Modelling
 
 Repository Link:
-[Mobile Sales Dashboard](Add Your GitHub Link)
+[Mobile Sales Dashboard](https://github.com/madhuri-shivhsharan/Mobile_Sales_Dashboard)
 
 ---
 
