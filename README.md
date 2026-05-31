@@ -99,22 +99,11 @@ Repository Link:
 **Skills:** Power BI, DAX, Power Query
 
 Repository Link:
-[Bank Loan Analytics Dashboard](Add Your GitHub Link)
+[Bank Loan Analytics Dashboard](https://github.com/madhuri-shivhsharan/Bank-Loan-Analytics-Dashboard-Powerbi)
 
 ---
 
-## Technical Skills
 
-- Power BI
-- SQL
-- Excel
-- DAX
-- Power Query
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-
----
 
   
 ⭐ Thank you for visiting my GitHub profile!
