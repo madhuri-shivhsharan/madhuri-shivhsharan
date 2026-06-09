@@ -103,6 +103,17 @@ Repository Link:
 
 ---
 
+### PhonePe Transaction Analysis Dashboard | Power BI
+- Developed an interactive Power BI dashboard to analyze PhonePe transaction performance across multiple services.
+- Tracked key metrics such as total amount, successful transactions, failed transactions, and payment status.
+- Analyzed failed payment reasons and monthly transaction trends to identify business insights.
+- Created interactive visualizations using charts, KPIs, slicers, and filters for better decision-making.
+- Used Power Query and DAX for data cleaning, transformation, and calculations.
+
+**Tools:** Power BI, Power Query, DAX, Excel
+
+Repository Link:
+
 
 
   
